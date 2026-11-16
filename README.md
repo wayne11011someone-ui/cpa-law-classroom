@@ -62,7 +62,7 @@ node --test tests/quiz.test.cjs
 
 ## 上傳與發布
 
-目前提供的是可在電腦開啟的完整專案。GitHub Repository 與 GitHub Pages 公開網址尚待使用者建立與測試，不能以本機路徑代替繳交網址。
+專案已上傳至 GitHub，並完成本機作答與解析測試。GitHub Pages 已設定使用 main 分支的根目錄，目前正在確認公開發布結果。
 
 請將專案內的所有必要檔案上傳到自己的 Repository，確保 `index.html` 與 `AGENTS.md` 位於 Repository 根目錄。發布後依 `docs/verification.md` 再檢查公開連結。
 
