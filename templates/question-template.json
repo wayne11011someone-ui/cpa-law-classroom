@@ -1,0 +1,35 @@
+{
+  "id": "",
+  "subject": "",
+  "topic": "",
+  "year": null,
+  "exam": "",
+  "examSubject": "",
+  "questionNumber": null,
+  "question": "",
+  "options": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+  },
+  "answer": "",
+  "explanation": "",
+  "optionExplanations": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+  },
+  "legalBasis": [],
+  "lawUpdateNote": "",
+  "source": {
+    "questionUrl": "",
+    "answerUrl": "",
+    "questionPage": null,
+    "answerPage": null,
+    "correctionNote": ""
+  },
+  "verifiedAt": "",
+  "status": "pending"
+}

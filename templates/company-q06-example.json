@@ -1,0 +1,42 @@
+{
+  "id": "cpa-114-5803-q06",
+  "subject": "company",
+  "topic": "員工優先承購比例",
+  "year": 114,
+  "exam": "114年專門職業及技術人員高等考試會計師考試",
+  "examSubject": "公司法、證券交易法與商業會計法",
+  "questionNumber": 6,
+  "question": "A 股份有限公司是一家從事食品零售的民營公司，該公司董事會擬現金發行新股一百萬股，以籌措公司所需資金。依公司法之規定，原則上 A 公司應至少保留多少股份由公司員工承購？",
+  "options": {
+    "A": "五萬股",
+    "B": "十萬股",
+    "C": "十五萬股",
+    "D": "五十萬股"
+  },
+  "answer": "B",
+  "explanation": "公司法第 267 條第 1 項原則上保留新股總數的 10%～15% 由員工承購。本題問至少應保留多少，因此取下限 10%，100 萬股 × 10% = 10 萬股。",
+  "optionExplanations": {
+    "A": "5% 低於法定下限。",
+    "B": "正確。法定下限為 10%，即十萬股。",
+    "C": "15% 是比例區間的上限，不是本題所問最低保留額。",
+    "D": "50% 不符合該條原則規定的 10%～15% 範圍。"
+  },
+  "legalBasis": [
+    {
+      "law": "公司法",
+      "article": "第 267 條第 1 項",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=267&pcode=J0080001",
+      "versionNote": "114 年考試適用公司法 110-12-29 修正版本；現行法 114-12-26 修正僅涉及第 387-1、449 條，本題引用條文未變動。"
+    }
+  ],
+  "lawUpdateNote": "114 年考試適用公司法 110-12-29 修正版本；現行法 114-12-26 修正僅涉及第 387-1、449 條，本題引用條文未變動。",
+  "source": {
+    "questionUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=Q",
+    "answerUrl": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?code=114130&t=A",
+    "questionPage": 2,
+    "answerPage": 16,
+    "correctionNote": "科目代碼 5803，官方答案更正清冊標示「無更正紀錄」。"
+  },
+  "verifiedAt": "2026-11-16",
+  "status": "verified"
+}
